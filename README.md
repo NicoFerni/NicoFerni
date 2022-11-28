@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning: HTML, CSS, JavaScript, React, Node, Express.
+I’m currently learning: HTML, CSS, JavaScript, React, Node, Express, Sequalize.
 
 <!--
 **NicoFerni/NicoFerni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
