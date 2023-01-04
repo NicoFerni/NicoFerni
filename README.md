@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I’m currently learning: HTML, CSS, JavaScript, React, Node, Express, Sequalize.
+I’m currently learning: HTML, CSS, JavaScript, React, Node, Express, Sequalize, Redux-Toolkit.
+Im really like programming and I always learning new technologies, such as MongoDB or TypeScript for new opportunities.
 
 <!--
 **NicoFerni/NicoFerni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
