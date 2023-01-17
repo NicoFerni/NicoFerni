@@ -10,8 +10,8 @@ https://www.linkedin.com/in/nicolasfernandev/
 e-mail: nicofernandev@gmail.com
 
 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+ 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  height = 50px width = 50px/>
           
           
 
