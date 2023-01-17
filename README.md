@@ -11,7 +11,7 @@ e-mail: nicofernandev@gmail.com
 
 
  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  height = 50px width = 50px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  height = 30px width = 30px/>
           
           
 
