@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m learned: HTML, CSS, JavaScript, React, Node, Express, Sequalize, Redux-Toolkit.
+I learned: HTML, CSS, JavaScript, React, Node, Express, Sequalize, Redux-Toolkit.
 
 
 I really like programming and Im always learning new technologies, such as MongoDB or TypeScript for new opportunities.
