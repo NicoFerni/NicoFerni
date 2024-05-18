@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I have learned: NestJS, TypeScript, NodeJs, postgreSql, TypeOrm, JavaScript, React, Node
+
 I'm currently working in freelance projects with: NestJs, TypeScript, React-Native 
 
 You can reach me on: 
