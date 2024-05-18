@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-I learned: HTML, CSS, JavaScript, React, Node, Express, Sequalize, Redux-Toolkit.
+I have learned: HTML, CSS, JavaScript, React, Node, Express, Sequalize, Redux-Toolkit.
 
-
-I really like programming and Im always learning new technologies, such as MongoDB or TypeScript for new opportunities.
+I'm currently working doing freelance projects with: NestJs, TypeScript, React-Native 
 
 You can reach me on: 
 https://www.linkedin.com/in/nicolasfernandev/ <br>
