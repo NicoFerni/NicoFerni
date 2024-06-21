@@ -1,13 +1,10 @@
-### Hi there 👋
-
+Hi! I'm Nicolas, i'm a full-stack developer.
 I have learned: NestJS, TypeScript, NodeJs, postgreSql, TypeOrm, JavaScript, React, Node
-
 I'm currently working in freelance projects with: NestJs, TypeScript, React-Native 
 
 You can reach me on: 
 https://www.linkedin.com/in/nicolasfernandev/ <br>
 e-mail: nicofernandev@gmail.com
-
 
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="Nest" alt="Nest" width="40" height="40"/>&nbsp;
