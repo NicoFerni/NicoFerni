@@ -1,4 +1,4 @@
-Hi! I'm Nicolas, i'm a full-stack developer.
+Hi! I'm Nicolas, i'm a Full-stack developer.
 I have learned: NestJS, TypeScript, NodeJs, postgreSql, TypeOrm, JavaScript, React
 
 I'm currently working in freelance projects with: NestJs, TypeScript, React-Native 
