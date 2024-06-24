@@ -1,7 +1,7 @@
 Hi! I'm Nicolas, i'm a Full-stack developer.
-I have learned: NestJS, TypeScript, NodeJs, postgreSql, TypeOrm, JavaScript, React
+I have learned: NestJS, TypeScript, NodeJS, PostgreSQL, TypeOrm, JavaScript, React
 
-I'm currently working in freelance projects with: NestJs, TypeScript, React-Native 
+I'm currently working in freelance projects with: NestJs, TypeScript, PostgreSQL, TypeOrm, Supabase, Firebase and Render
 
 You can reach me on: 
 https://www.linkedin.com/in/nicolasfernandev/ <br>
